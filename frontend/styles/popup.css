@@ -1,0 +1,7 @@
+.popup {
+  transition: all 1s ease-in-out;
+}
+.close-button {
+  background-color: blue;
+  transition: all 1s;
+}

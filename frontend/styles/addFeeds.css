@@ -1,0 +1,15 @@
+.img_input_wrap {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.has_preview_input {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  opacity: 0;
+  cursor: pointer;
+  margin-bottom: 0px;
+  padding: 0;
+}
